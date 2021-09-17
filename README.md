@@ -1,0 +1,1 @@
+# Descenso_del_Gradiente
